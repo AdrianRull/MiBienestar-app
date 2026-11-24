@@ -22,6 +22,15 @@ Click the link above to download the APK directly to your Android device. No nee
 
 ## 📸 Screenshots
 
+<h2>📸 Screenshots</h2>
+
+<p align="center">
+  <img src="screenshots/1.png" width="23%" alt="MiBienestar screenshot 1">
+  <img src="screenshots/2.png" width="23%" alt="MiBienestar screenshot 2">
+  <img src="screenshots/3.png" width="23%" alt="MiBienestar screenshot 3">
+  <img src="screenshots/4.png" width="23%" alt="MiBienestar screenshot 4">
+</p>
+
 <!-- Add your application screenshots here -->
 
 ## 🔗 Links

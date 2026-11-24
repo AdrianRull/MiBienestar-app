@@ -20,7 +20,6 @@ Click the link above to download the APK directly to your Android device. No nee
 - Expo
 - JavaScript
 
-## 📸 Screenshots
 
 <h2>📸 Screenshots</h2>
 
